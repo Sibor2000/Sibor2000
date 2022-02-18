@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sibor2000
+- 👀 I’m interested in: A LOT
+- 🌱 I’m currently learning Computer Engineering at the Technical University of Cluj-Napoca
+- 💞️ I’m looking to collaborate on projects that I can learn from and contribute to.
+- 📫 How to reach me: You can email me.
