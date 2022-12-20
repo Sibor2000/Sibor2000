@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Sibor2000
-- 👀 I’m interested in: A LOT
-- 🌱 I’m currently learning Computer Engineering at the Technical University of Cluj-Napoca
-- 💞️ I’m looking to try out various new technologies and meet many people.
-- 📫 How to reach me: You can email me.
+- 👋 Hello, I am Sibor2000
+- 🎓 Currently studying Computer Science at the Technical University of Cluj-Napoca.
+- 🙋‍♂️ I'm open for internships, collaborations.
+- 🧠 I'm open to try out new technologies and learn new concepts.
+- 🔩 I'm interested in: Web and mobile app development, but I am also interested in Hardware development.
+- 👨‍💻 Currently developing A Card application for the Hungarian Students of Cluj-Napoca.
+- ✉ Contact me at: sibor2000@hotmail.com
