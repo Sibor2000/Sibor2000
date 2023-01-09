@@ -3,7 +3,7 @@
 - 🙋‍♂️ I'm open for internships, collaborations.
 - 🧠 I'm open to try out new technologies and learn new concepts.
 - 💯 Always ready to meet new people.
-- 🔩 I'm interested in: Web and mobile app development mainly, but I am also interested in Hardware development.
+- 🔩 I'm interested in: Web and mobile app development mainly, but also Hardware development.
 - 👨‍💻 Currently developing A Card application for the Hungarian Students of Cluj-Napoca.
 - 💻 C++, Flutter, Vue, Python etc.
 - ✉ Contact me at: sibor2000@hotmail.com
