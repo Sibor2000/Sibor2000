@@ -5,5 +5,5 @@
 - 💯 Always ready to meet new people.
 - 🔩 I'm interested in: Web and mobile app development mainly, but also Hardware development.
 - 👨‍💻 Currently developing A Card application for the Hungarian Students of Cluj-Napoca.
-- 💻 C++, Flutter, Vue, Python etc.
+- 💻 C++, Flutter, Vue, Java etc.
 - ✉ Contact me at: sibor2000@hotmail.com
