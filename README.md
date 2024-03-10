@@ -4,5 +4,5 @@
 - 🧠 I'm open to try out new technologies and learn new concepts.
 - 💯 Always ready to meet new people.
 - 🔩 I'm interested in: Mobile development and how to benefit from AI.
-- 👨‍💻 Currently developing A Card application for the Hungarian Students of Cluj-Napoca.
+- 👨‍💻 Ex project owner: A Card application for the Hungarian Students of Cluj-Napoca.
 - 💻 C++, Flutter, Vue, Java etc.
