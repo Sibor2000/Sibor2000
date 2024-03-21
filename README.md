@@ -3,6 +3,6 @@
 - 🙋‍♂️ I'm open for internships, collaborations.
 - 🧠 I'm open to try out new technologies and learn new concepts.
 - 💯 Always ready to meet new people.
-- 🔩 I'm interested in: Mobile development and how to benefit from AI.
+- 🔩 I'm interested in: Web and mobile development and how to benefit from AI.
 - 👨‍💻 Ex project owner: A Card application for the Hungarian Students of Cluj-Napoca.
 - 💻 C++, Flutter, Vue, Java etc.
